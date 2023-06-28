@@ -1,0 +1,102 @@
+body{
+    background-image: url("../Illustrations_Logo/All_pages/arrière_plan.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .TOP{
+        margin-top: 1cm;
+        margin-left: 2cm;
+    }
+    .Accueil{
+        color: #ffffff;
+        float: right;
+        margin-right:1cm;
+        font-family: "BEYNO";
+    }
+    h1{
+        margin-left: 10%;
+        font-size: 32px;
+        font-family: "BEYNO";
+        color:#ffffff;
+    }
+    h2{
+        margin-left: 10%;
+        margin-top: 0;
+        color:#ffffff;
+        font-family: "wakanda forever";
+        font-size: 43px;
+    }
+    .Beautiful{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 20px;
+    }
+    .text{
+        float: CENTER;
+        margin-top: 20%;
+        background-image: url(../Illustrations_Logo/Enigme/Pantherenigme2.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 20px;
+        padding: 20px;
+        color: #ffffff;
+
+    }
+    .Beautiful img{
+        max-width: 60%;
+        
+    }
+    .srtr{
+        color: #ffffff;
+        font-size: 16px;
+    }
+    .wakanda{
+        font-family: "wakanda forever";
+    }
+    h5{
+        color: #ffffff;
+    }
+    .nice{
+        margin-left: 10%;
+    }
+    .placeholder{
+        padding-left: 10%;
+        padding-right:50%;
+    }
+    input{
+        border-color:#df99f2;
+        border-radius: 10%;
+    }
+    form{
+        padding-top: 10%;
+        padding-bottom: 5%;
+        padding-left: 5%;
+        margin-right: 50%;
+        background-color: aliceblue;
+        background-repeat: no-repeat;
+        background-size:cover ;
+    }
+    .texto{
+        padding-top: 50%;
+        float: right;
+        background-image: url(../Illustrations_Logo/Enigme/Pantherenigme2.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-left: 5%;
+        padding: 20px;
+        color: #ffffff;
+    }
+    input[type="submit"]{
+        margin-left: 20%;
+        margin-right: 20%;
+        padding-top: 5%;
+        border-radius: 5px;
+        cursor: pointer;
+        padding: 10px 20px;
+    }
+    input[type="text"]{
+        padding-right: 50%;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }

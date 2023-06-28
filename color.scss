@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Panthera";
+    src: url(../font/PantheraRegular-MVZ9J.ttf);
+}
+@font-face {
+    font-family:"cantarell";
+    src: url(../font/Cantarell-Regular.ttf);
+}
+@font-face {
+    font-family:"wakanda" ;
+    src: url(../font/WakandaForever-Regular.ttf);
+}
+@font-face {
+    font-family: "BEYNO";
+    src: url(../font/BEYNO.otf);
+}
+:root{
+    --color-white:#ffffff;
+    --color-grey:#f2cef2;
+    --color-pink:#df99f2;
+    --color-blue:#3d2da6;
+    --color-darkblue:#07338c;
+    --color-black:#021740;
+}
